@@ -346,7 +346,6 @@ p{
 }
 
 
-
 #services .service-item::after{
     content: '';
     position: absolute;
